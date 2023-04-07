@@ -41,7 +41,8 @@ Here is a quick math problem for you to solve:  $\sqrt{3x-1}+(1+x)^2$
 Our colors here at MNSU are `#BF40BF` and `#FFD700`.
 
 <!-- Pictures -->
-Here is a picture of one of my favorite basketball players.
+Here is a picture of one of my favorite basketball players:
+
 ![Basketball player](/images.jpeg)
 
 <!-- Lists -->
