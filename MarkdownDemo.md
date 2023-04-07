@@ -42,7 +42,7 @@ Our colors here at MNSU are `#BF40BF` and `#FFD700`.
 
 <!-- Pictures -->
 Here is a picture of one of my favorite basketball players.
-![Basketball player](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F02%2F02%2Fsports%2Fbasketball%2Fkobe-death.html&psig=AOvVaw3f2kQujf7tx5wJ7yjit59e&ust=1680986549411000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjo94PRmP4CFQAAAAAdAAAAABAE)
+![Basketball player](/assets/images/images.jpeg)
 
 <!-- Lists -->
 Some of my hobbies are:
