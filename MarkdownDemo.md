@@ -2,7 +2,7 @@
 
 <!-- Headings -->
 # Welcome to my Markdown demo!
-### I will be demonstrating the differnt aspects of markdown.
+### I will be demonstrating the different aspects of markdown.
 
 <!-- Syling text -->
 *Hello*! my name is **Dawson** and I am a student at **Minnesota State University, _Mankato_**.
