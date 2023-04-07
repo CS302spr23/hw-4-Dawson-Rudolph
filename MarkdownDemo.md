@@ -58,7 +58,7 @@ This is my to-do list for today:
 - [ ] Call my dad
 
 <!-- Footnotes -->
-It has been getting warm here in Minnesota, signalling the start of my favorite time of the year, summer!
+It has been getting warm here in Minnesota, signaling the start of my favorite time of the year, summer!
 
 [^1]: I like spending lots of time outdoors during the summer.
 [^2]: I also enjoy hanging out with friends and family as much as possible.
